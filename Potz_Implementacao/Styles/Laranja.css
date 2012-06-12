@@ -1,0 +1,12 @@
+﻿.Cabecalho 
+{
+	background-image: url("/Imagens/CabecalhoLaranja.jpg");
+	font-family: Verdana;
+	font-size: 30px;
+	font-weight: bold;
+	text-indent: 70px;
+	width: 700px;
+	height: 70px;
+	color: #CE8D01;
+	line-height: 70px;
+}
